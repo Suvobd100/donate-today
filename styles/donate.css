@@ -1,0 +1,59 @@
+.header {
+    height: 700px;
+    background-image: url("../images/donation1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: gray;
+    background-blend-mode: multiply;
+
+}
+
+
+.title  {
+   
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    list-style: none;
+    padding-top:90px;
+    text-decoration: none;
+    
+    /* font-family: sans-serif; */
+    font-weight: 700;
+   
+}
+
+.sub-title{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    list-style: none;
+
+}
+
+.description-1{
+    color: wheat;
+    font-size: 20px;
+    text-align: center;
+    list-style: none;
+}
+    
+.description-2{
+    color: wheat;
+    font-size: 20px;
+    text-align: center;
+    list-style: none;
+}
+    
+.btn-1{
+    margin-left:47%;
+    /* border: 1px  solid ; */
+    background-color:orange;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+  
+}
